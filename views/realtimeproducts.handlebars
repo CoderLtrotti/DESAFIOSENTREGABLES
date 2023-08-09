@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Product Listing</title>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+      const socket = io();
+
+      // Handle 'newProduct' event
+      socket.on('newProduct', (product) => {
+        // Add the new product to the list
+        const productList = document.getElementById('productList');
+        const item = document.createElement('li');
+        item.textContent = product;
+        productList.appendChild(item);
+      });
+
+      // Emit 'addProduct' event
+      function addProduct() {
+        const productName = document.getElementById('productName').value;
+        socket.emit('addProduct', productName);
+        document.getElementById('productName').value = '';
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Product Listing</h1>
+    <ul id="productList">
+      {{#each products}}
+      <li>{{this.id}} - {{this.title}} - ${{this.price}}</li>
+      {{/each}}
+    </ul>
+    <input type="text" id="productName" />
+    <button onclick="addProduct()">Add Product</button>
+  </body>
+</html>
