@@ -66,9 +66,17 @@ app.get('/', (req, res) => {
 });
 
 
+app.get('/home', async (req, res) => {
+  try {
+    const products = await contenedor.getAll(); // Obtener todos los productos
+    res.render('home', { products }); // Renderizar la vista y pasar los datos de los productos
+  } catch (error) {
+    console.error('Error:', error);
+    res.status(500).send('Internal Server Error');
+  }
+});
 
 
-// Configurar el motor de plantillas Handlebars
 
 
 // Configurar la carpeta de vistas y el motor de plantillas
@@ -109,11 +117,15 @@ io.on('connection', (socket) => {
 console.log('A user connected');
 
 // Handle 'addProduct' event
-socket.on('addProduct', (product) => {
-  products.push(product);
+socket.on('addProduct', async (product) => {
+  try {
+    const productId = await contenedor.save(product); // Guarda el nuevo producto
+    const newProduct = await contenedor.getById(productId); // Obtiene el producto recién guardado
 
-  // Broadcast the updated products to all connected clients
-  io.emit('newProduct', product);
+    io.emit('newProduct', newProduct); // Emite el producto actualizado a los clientes conectados
+  } catch (error) {
+    console.error('Error:', error);
+  }
 });
 
 // Handle 'disconnect' event
