@@ -89,6 +89,7 @@ app.get('/home', async (req, res) => {
 // Configurar la carpeta de vistas y el motor de plantillas
 app.engine('handlebars', handlerbars.engine());
 app.set('views', 'views/');
+/*app.set('views', '../views/');*/ //ruta alternativa para utilizar con node app.js
 app.set('view engine', 'handlebars');
 const hbs = create({
 defaultLayout: '',
