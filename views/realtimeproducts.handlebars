@@ -11,26 +11,73 @@
         // Add the new product to the list
         const productList = document.getElementById('productList');
         const item = document.createElement('li');
-        item.textContent = product;
+        item.textContent = `${product.id} - ${product.title} - $${product.price}`;
         productList.appendChild(item);
       });
 
       // Emit 'addProduct' event
       function addProduct() {
         const productName = document.getElementById('productName').value;
-        socket.emit('addProduct', productName);
+        const newProduct = {
+          title: productName,
+          price: 0, // Agrega el precio aquí
+          description: '', // Agrega la descripción aquí
+          code: '', // Agrega el código aquí
+          // Agrega otras propiedades necesarias aquí
+        };
+        socket.emit('addProduct', newProduct);
         document.getElementById('productName').value = '';
+
+        window.location.href = '/product-added';
       }
     </script>
   </head>
   <body>
     <h1>Product Listing</h1>
+
+    <!-- Formulario para agregar un producto -->
+    <h2>Add Product</h2>
+    <form action="/api/productos" method="POST">
+      <label for="productName">Product Name:</label>
+      <input type="text" id="productName" name="title" required />
+      <!-- Agrega otros campos necesarios aquí -->
+      <button type="submit">Add</button>
+    </form>
+
+    <h2>Products</h2>
     <ul id="productList">
       {{#each products}}
       <li>{{this.id}} - {{this.title}} - ${{this.price}}</li>
       {{/each}}
     </ul>
-    <input type="text" id="productName" />
-    <button onclick="addProduct()">Add Product</button>
-  </body>
-</html>
+
+    <!-- Formulario para eliminar un producto -->
+<h2>Delete Product</h2>
+<form id="deleteProductForm">
+  <label for="productIdToDelete">Product ID to Delete:</label>
+  <input type="number" id="productIdToDelete" required />
+  <button type="button" id="deleteProductButton">Delete</button>
+</form>
+
+<!-- Script para manejar la eliminación de productos -->
+<script>
+  document.getElementById('deleteProductButton').addEventListener('click', async () => {
+    const productIdToDelete = parseInt(document.getElementById('productIdToDelete').value);
+
+    try {
+      const response = await fetch(`/api/productos/${productIdToDelete}`, {
+        method: 'DELETE',
+      });
+
+     if (response.ok) {
+        console.log('Product deleted successfully');
+        window.location.href = '/product-deleted'; // Redirige a la página de producto eliminado
+      } else {
+        console.error('Failed to delete product');
+      }
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  });
+</script>
+</script>

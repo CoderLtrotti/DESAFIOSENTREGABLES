@@ -64,7 +64,13 @@ app.use('/api/carts', carritosRouter);
 app.get('/', (req, res) => {
   res.send('¡Bienvenido a la API de productos y carritos!');
 });
+app.get('/product-deleted', (req, res) => {
+  res.send('Producto eliminado exitosamente');
+});
 
+app.get('/product-added', (req, res) => {
+  res.send('Producto agregado exitosamente');
+});
 
 app.get('/home', async (req, res) => {
   try {
