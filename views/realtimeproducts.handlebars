@@ -1,83 +1,115 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Product Listing</title>
-    <script src="/socket.io/socket.io.js"></script>
-    <script>
-      const socket = io();
+<head>
+  <title>Realtime Product Listing</title>
+  <link rel="icon" type="image/x-icon" href="data:," />
+  <!-- Resto de tus etiquetas en el head -->
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
 
-      // Handle 'newProduct' event
-      socket.on('newProduct', (product) => {
-        // Add the new product to the list
-        const productList = document.getElementById('productList');
-        const item = document.createElement('li');
-        item.textContent = `${product.id} - ${product.title} - $${product.price}`;
-        productList.appendChild(item);
-      });
+    // Handle 'newProduct' event
+    socket.on('newProduct', (product) => {
+      // Add the new product to the list
+      const productList = document.getElementById('productList');
+      const item = document.createElement('li');
+      item.textContent = `${product.id} - ${product.title} - $${product.price} - ${product.stock}`;
+      productList.appendChild(item);
+    });
 
-      // Emit 'addProduct' event
-      function addProduct() {
-        const productName = document.getElementById('productName').value;
-        const newProduct = {
-          title: productName,
-          price: 0, // Agrega el precio aquí
-          description: '', // Agrega la descripción aquí
-          code: '', // Agrega el código aquí
-          // Agrega otras propiedades necesarias aquí
-        };
-        socket.emit('addProduct', newProduct);
-        document.getElementById('productName').value = '';
+    // Handle 'productDeleted' event
+  
+    // Emit 'addProduct' event
+    function addProduct() {
+      const productName = document.getElementById('productName').value;
+      const productPrice = parseFloat(document.getElementById('productPrice').value);
+      const productStock = parseInt(document.getElementById('productStock').value);
+      const productDescription = document.getElementById('productDescription').value;
 
-        window.location.href = '/product-added';
+      // Perform basic validation
+      if (!productName || isNaN(productPrice) || isNaN(productStock) || !productDescription) {
+        alert('Please fill in all required fields with valid data.');
+        return;
       }
-    </script>
-  </head>
-  <body>
-    <h1>Product Listing</h1>
 
-    <!-- Formulario para agregar un producto -->
-    <h2>Add Product</h2>
-    <form action="/api/productos" method="POST">
-      <label for="productName">Product Name:</label>
-      <input type="text" id="productName" name="title" required />
-      <!-- Agrega otros campos necesarios aquí -->
-      <button type="submit">Add</button>
-    </form>
+      const newProduct = {
+        title: productName,
+        price: productPrice,
+        stock: productStock,
+        description: productDescription,
+      };
+      socket.emit('addProduct', newProduct);
 
-    <h2>Products</h2>
-    <ul id="productList">
+      // Clear form fields
+      document.getElementById('productName').value = '';
+      document.getElementById('productPrice').value = '';
+      document.getElementById('productStock').value = '';
+      document.getElementById('productDescription').value = '';
+    }
+  </script>
+</head>
+<body>
+  <h1>Realtime Product Listing</h1>
+
+  <!-- Formulario para agregar un producto -->
+  <h2>Add Product</h2>
+  <form>
+    <label for="productName">Product Name:</label>
+    <input type="text" id="productName" required /><br>
+    <label for="productPrice">Product Price:</label>
+    <input type="number" id="productPrice" step="0.01" required /><br>
+    <label for="productStock">Product Stock:</label>
+    <input type="number" id="productStock" required /><br>
+    <label for="productDescription">Product Description:</label>
+    <textarea id="productDescription" required></textarea><br>
+    <button type="button" onclick="addProduct()">Add Product</button>
+  </form>
+
+  <h2>Products</h2>
+  <ul id="productList">
       {{#each products}}
-      <li>{{this.id}} - {{this.title}} - ${{this.price}}</li>
-      {{/each}}
-    </ul>
+    <li id="product-{{this.id}}">{{this.id}} - {{this.title}} - ${{this.price}} - {{this.stock}}</li>
+    {{/each}}
+  </ul>
+  </ul>
 
-    <!-- Formulario para eliminar un producto -->
-<h2>Delete Product</h2>
-<form id="deleteProductForm">
-  <label for="productIdToDelete">Product ID to Delete:</label>
-  <input type="number" id="productIdToDelete" required />
-  <button type="button" id="deleteProductButton">Delete</button>
-</form>
+  <h2>Delete Product</h2>
+  <form id="deleteProductForm">
+    <label for="productIdToDelete">Product ID to Delete:</label>
+    <input type="number" id="productIdToDelete" required />
+    <button type="button" id="deleteProductButton">Delete</button>
+  </form>
 
-<!-- Script para manejar la eliminación de productos -->
-<script>
-  document.getElementById('deleteProductButton').addEventListener('click', async () => {
-    const productIdToDelete = parseInt(document.getElementById('productIdToDelete').value);
-
-    try {
-      const response = await fetch(`/api/productos/${productIdToDelete}`, {
-        method: 'DELETE',
-      });
-
-     if (response.ok) {
-        console.log('Product deleted successfully');
-        window.location.href = '/product-deleted'; // Redirige a la página de producto eliminado
-      } else {
-        console.error('Failed to delete product');
-      }
-    } catch (error) {
-      console.error('Error:', error);
+  <!-- Script para manejar la eliminación de productos -->
+  <script>
+      socket.on('productDeleted', (productId) => {
+    const deletedProductElement = document.getElementById(`product-${productId}`);
+    if (deletedProductElement) {
+      deletedProductElement.remove();
     }
   });
-</script>
-</script>
+
+  // Actualizar el evento para eliminar productos
+ document.getElementById('deleteProductButton').addEventListener('click', async () => {
+  const productIdToDelete = parseInt(document.getElementById('productIdToDelete').value);
+
+  try {
+    const response = await fetch(`/api/productos/${productIdToDelete}`, {
+      method: 'DELETE',
+    });
+
+    if (response.ok) {
+      console.log('Product deleted successfully');
+      // Emite el evento deleteProduct para que se actualice en tiempo real
+      socket.emit('deleteProduct', productIdToDelete);
+    } else {
+      console.error('Failed to delete product');
+    }
+  } catch (error) {
+    console.error('Error:', error);
+  }
+});
+
+  </script>
+</body>
+</html>

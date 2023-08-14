@@ -65,13 +65,7 @@ app.use('/api/carts', carritosRouter);
 app.get('/', (req, res) => {
   res.send('¡Bienvenido a la API de productos y carritos!');
 });
-app.get('/product-deleted', (req, res) => {
-  res.send('Producto eliminado exitosamente');
-});
 
-app.get('/product-added', (req, res) => {
-  res.send('Producto agregado exitosamente');
-});
 
 app.get('/home', async (req, res) => {
   try {
@@ -123,26 +117,48 @@ const webServer = app.listen(8080, () => {
 // Inicialización de socket.io
 const io = new Server(webServer);
 
-// Eventos de socket.io
 io.on('connection', (socket) => {
-console.log('A user connected');
+  console.log('A user connected');
 
-// Handle 'addProduct' event
-socket.on('addProduct', async (product) => {
-  try {
-    const productId = await contenedor.save(product); // Guarda el nuevo producto
-    const newProduct = await contenedor.getById(productId); // Obtiene el producto recién guardado
+  // Handle 'addProduct' event
+  socket.on('addProduct', async (product) => {
+    try {
+      const productId = await contenedor.save(product);
+      const newProduct = await contenedor.getById(productId);
 
-    io.emit('newProduct', newProduct); // Emite el producto actualizado a los clientes conectados
-  } catch (error) {
-    console.error('Error:', error);
-  }
+      io.emit('newProduct', newProduct);
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  });
+
+  socket.on('deleteProduct', async (productId) => {
+    try {
+      const deletedProduct = await productosContenedor.deleteById(productId);
+      if (deletedProduct) {
+        io.emit('productDeleted', productId);
+      }
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  });
+
+  socket.on('deleteProduct', async (productId) => {
+    try {
+      const deletedProduct = await productosContenedor.deleteById(productId);
+      if (deletedProduct) {
+        io.emit('productDeleted', productId); // Emite el evento de eliminación
+      }
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  })
+  // Ruta para eliminar productos
+
+
+  // Handle 'disconnect' event
+  socket.on('disconnect', () => {
+    console.log('A user disconnected');
+  });
 });
-
-// Handle 'disconnect' event
-socket.on('disconnect', () => {
-  console.log('A user disconnected');
-});
-});
-
 
