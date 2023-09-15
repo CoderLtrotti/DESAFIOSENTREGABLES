@@ -1,0 +1,5833 @@
+[
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 3
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 4
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 6
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 7
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 8
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 10
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 11
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 13
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 14
+  },
+  {
+    "id": 15
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 16
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 18
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 19
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 20
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 22
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 23
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 24
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 26
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 27
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 28
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 30
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 31
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 32
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 34
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 35
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 36
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 38
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 39
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 40
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 42
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 43
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 44
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 46
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 47
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 48
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 50
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 51
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 52
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 54
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 55
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 56
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 58
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 59
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 60
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 62
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 63
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 64
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 66
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 67
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 68
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 70
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 71
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 72
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 74
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 75
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 76
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 78
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 79
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 80
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 82
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 83
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 84
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 86
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 87
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 88
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 90
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 91
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 92
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 94
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 95
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 96
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 98
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 99
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 100
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 102
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 103
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 104
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 106
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 107
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 108
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 110
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 111
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 112
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 114
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 115
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 116
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 118
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 119
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 120
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 122
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 123
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 124
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 126
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 127
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 128
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 130
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 131
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 132
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 134
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 135
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 136
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 138
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 139
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 140
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 142
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 143
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 144
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 146
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 147
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 148
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 150
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 151
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 152
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 154
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 155
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 156
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 158
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 159
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 160
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 162
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 163
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 164
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 166
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 167
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 168
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 170
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 171
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 172
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 174
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 175
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 176
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 178
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 179
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 180
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 182
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 183
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 184
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 186
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 187
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 188
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 190
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 191
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 192
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 194
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 195
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 196
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 198
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 199
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 200
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 202
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 203
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 204
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 206
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 207
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 208
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 210
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 211
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 212
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 214
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 215
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 216
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 218
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 219
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 220
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 222
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 223
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 224
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 226
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 227
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 228
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 230
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 231
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 232
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 234
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 235
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 236
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 238
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 239
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 240
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 242
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 243
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 244
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 246
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 247
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 248
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 250
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 251
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 252
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 254
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 255
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 256
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 258
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 259
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 260
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 262
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 263
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 264
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 266
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 267
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 268
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 270
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 271
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 272
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 274
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 275
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 276
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 278
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 279
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 280
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 282
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 283
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 284
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 286
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 287
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 288
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 290
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 291
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 292
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 294
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 295
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 296
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 298
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 299
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 300
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 302
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 303
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 304
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 306
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 307
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 308
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 310
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 311
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 312
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 314
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 315
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 316
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 318
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 319
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 320
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 322
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 323
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 324
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 326
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 327
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 328
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 330
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 331
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 332
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 334
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 335
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 336
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 338
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 339
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 340
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 342
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 343
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 344
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 346
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 347
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 348
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 350
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 351
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 352
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 354
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 355
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 356
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 358
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 359
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 360
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 362
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 363
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 364
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 366
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 367
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 368
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 370
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 371
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 372
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 374
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 375
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 376
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 378
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 379
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 380
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 382
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 383
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 384
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 386
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 387
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 388
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 390
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 391
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 392
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 394
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 395
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 396
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 398
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 399
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 400
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 402
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 403
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 404
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 406
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 407
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 408
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 410
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 411
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 412
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 414
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 415
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 416
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 418
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 419
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 420
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 422
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 423
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 424
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 426
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 427
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 428
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 430
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 431
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 432
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 434
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 435
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 436
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 438
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 439
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 440
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 442
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 443
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 444
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 446
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 447
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 448
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 450
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 451
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 452
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 454
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 455
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 456
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 458
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 459
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 460
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 462
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 463
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 464
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 466
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 467
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 468
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 470
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 471
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 472
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 474
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 475
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 476
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 478
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 479
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 480
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 482
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 483
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 484
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 486
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 487
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 488
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 490
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 491
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 492
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 494
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 495
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 496
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 498
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 499
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 500
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 502
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 503
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 504
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 506
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 507
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 508
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 510
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 511
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 512
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 514
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 515
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 516
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 518
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 519
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 520
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 522
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 523
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 524
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 526
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 527
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 528
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 530
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 531
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 532
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 534
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 535
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 536
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 538
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 539
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 540
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 542
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 543
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 544
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 546
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 547
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 548
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 550
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 551
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 552
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 554
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 555
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 556
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 558
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 559
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 560
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 562
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 563
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 564
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 566
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 567
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 568
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 570
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 571
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 572
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 574
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 575
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 576
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 578
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 579
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 580
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 582
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 583
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 584
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 586
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 587
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 588
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 590
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 591
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 592
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 594
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 595
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 596
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 598
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 599
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 600
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 602
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 603
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 604
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 606
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 607
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 608
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 610
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 611
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 612
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 614
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 615
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 616
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 618
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 619
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 620
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 622
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 623
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 624
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 626
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 627
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 628
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 630
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 631
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 632
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 634
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 635
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 636
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 638
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 639
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 640
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 642
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 643
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 644
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 646
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 647
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 648
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 650
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 651
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 652
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 654
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 655
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 656
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 658
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 659
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 660
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 662
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 663
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 664
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 666
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 667
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 668
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 670
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 671
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 672
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 674
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 675
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 676
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 678
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 679
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 680
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 682
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 683
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 684
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 686
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 687
+  }
+]

@@ -1,0 +1,22 @@
+<!-- cookies.hbs -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cookies Page</title>
+</head>
+<body>
+    <h1>Cookies Page</h1>
+    <form action="/cookies/set" method="GET">
+        <label for="name">Nombre del cliente:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Correo electrónico:</label>
+        <input type="text" id="email" name="email"><br><br>
+        <button type="submit">Guardar Cookie</button>
+    </form>
+    <br>
+    <form action="/cookies/get" method="GET">
+        <button type="submit">Obtener Cookie</button>
+    </form>
+</body>
+</html>
