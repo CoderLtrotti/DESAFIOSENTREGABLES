@@ -20,7 +20,9 @@ usersRouter.post('/auth', async (req, res) => {
         if (!user) throw new Error('Invalid data');
         if (user.password !== password) throw new Error('Invalid data');
         req.session.user = user;
-        res.status(200).json({ message: 'Authentication successful', user });
+
+        // Redirige al usuario a la página de bienvenida (por ejemplo, '/')
+        res.redirect('/index');
     } catch (error) {
         res.status(400).json({ error: error.message });
     }

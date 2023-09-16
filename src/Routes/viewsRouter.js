@@ -104,11 +104,7 @@ viewsRouter.get('/', (req , res) =>{
     });   
  });
 
- viewsRouter.get('/login', (req , res) =>{
-    res.render('login' , {
-        title: 'Inicio de sesion',
-    });   
- });
+
 
  viewsRouter.get('/product-details', (req, res) =>{
     res.render('product-details');

@@ -5829,5 +5829,107 @@
       "ruta_imagen3_small.jpg"
     ],
     "id": 687
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 688
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 690
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 691
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 692
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 694
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 695
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 696
+  },
+  {
+    "title": "Pantalón",
+    "description": "Un pantalón de mezclilla para uso diario",
+    "code": "PAN001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta_imagen2.jpg",
+      "ruta_imagen2_small.jpg"
+    ],
+    "id": 698
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 699
   }
 ]
